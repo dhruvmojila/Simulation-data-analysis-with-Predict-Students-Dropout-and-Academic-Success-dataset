@@ -85,3 +85,4 @@ This project demonstrates the power of simulation in understanding data distribu
 
 1. [Predict Students' Dropout and Academic Success Dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 2. [Introduction to Factor Analysis](https://www.datacamp.com/tutorial/introduction-factor-analysis)
+3. [Video Explanation of Project](https://stevens.zoom.us/rec/share/yz0ug9W3JkhyVZjHWehZEmNh7d4IDntRW3iHgdAk5Iug9Ay3-SRPdPAZotOAHjk2.OtlNl9Fgk-8Fzf0-)
