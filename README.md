@@ -6,16 +6,16 @@ This project explores the intricacies of various continuous and discrete random 
 
 ## 📖 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Data Description](#data-description)
-3. [Methodology, Analysis, and Results](#methodology-analysis-and-results)
-   - [Simulation Data Analysis](#simulation-data-analysis)
-   - [Markov Chain](#markov-chain)
-   - [Variance Reduction Techniques](#variance-reduction-techniques)
-   - [Simulation for Combinatorial Analysis](#simulation-for-combinatorial-analysis)
-   - [Real Data Analysis](#real-data-analysis)
-4. [Conclusion](#conclusion)
-5. [References](#references)
+1. [Introduction](##introduction)
+2. [Data Description](##data-description)
+3. [Methodology, Analysis, and Results](##methodology-analysis-and-results)
+   - [Simulation Data Analysis](##simulation-data-analysis)
+   - [Markov Chain](##markov-chain)
+   - [Variance Reduction Techniques](##variance-reduction-techniques)
+   - [Simulation for Combinatorial Analysis](##simulation-for-combinatorial-analysis)
+   - [Real Data Analysis](##real-data-analysis)
+4. [Conclusion](##conclusion)
+5. [References](##references)
 
 ## 🎯 Introduction
 
